@@ -1,0 +1,29 @@
+{
+  "name": "data-structure-algorithms",
+  "version": "0.0.1",
+  "description": "Data-Structure-Algorithms",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "dev-test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riokai/Data-Structure-Algorithms.git"
+  },
+  "keywords": [
+    "data",
+    "structure",
+    "algorithms"
+  ],
+  "author": "Kai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Riokai/Data-Structure-Algorithms/issues"
+  },
+  "homepage": "https://github.com/Riokai/Data-Structure-Algorithms#readme",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4"
+  }
+}
